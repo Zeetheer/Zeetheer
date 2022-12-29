@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on [None]
 - 📫 How to reach me [None]
 
-I'm making a program named HologramVideoMaker
-
 
 <!---
 Snaplan/Snaplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
