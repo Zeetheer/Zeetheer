@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on [None]
 - 📫 How to reach me [None]
-
+- 🍕 I am flexitarian.
 
 <!---
 Snaplan/Snaplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
