@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snaplan
-- 👀 I’m interested in Python, Rust
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Python, Dart
+- 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on [None]
 - 📫 How to reach me [None]
 - 🍕 I am flexitarian.
